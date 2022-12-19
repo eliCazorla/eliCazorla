@@ -2,7 +2,7 @@
 
 I am a Full Stack developer born and raised in Uruguay  
 
-⋅⋅* Currently working at Endava utilizing .NET and Andgular. 
+* Currently working at Endava utilizing .NET and Angular. 
 <!--
 **eliCazorla/eliCazorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
